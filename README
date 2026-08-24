@@ -1,0 +1,29 @@
+==================================================
+PRUEBA DEL TAD PILA
+==================================================
+
+1. Verificando si las pilas están vacías:
+Arreglo: True
+Lista enlazada: True
+
+2. Apilando elementos: 10, 20, 30
+
+Pila con arreglo:
+Fondo -> 10 -> 20 -> 30  <- Tope
+
+Pila con lista enlazada:
+Fondo -> 10 -> 20 -> 30  <- Tope
+
+3. Consultando la cima:
+Cima arreglo: 30
+Cima lista: 30
+
+4. Consultando el tamaño:
+Tamaño arreglo: 3
+Tamaño lista: 3
+
+5. Desapilando:
+Elemento eliminado arreglo: 30
+Elemento eliminado lista: 30
+
+✓ Ambas implementaciones producen los mismos resultados.
