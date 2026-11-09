@@ -1,0 +1,111 @@
+parte,orden_inicial,algoritmo,n,tiempo_ms
+A,Aleatorio,Burbuja,500,6.6214
+A,Aleatorio,Burbuja,1000,32.6600
+A,Aleatorio,Burbuja,2000,174.5515
+A,Aleatorio,Burbuja,4000,613.6962
+A,Aleatorio,Burbuja,8000,2380.0759
+A,Aleatorio,Heapsort,500,0.4707
+A,Aleatorio,Heapsort,1000,1.1007
+A,Aleatorio,Heapsort,2000,2.5102
+A,Aleatorio,Heapsort,4000,5.7595
+A,Aleatorio,Heapsort,8000,17.5072
+A,Aleatorio,Inserción,500,2.6990
+A,Aleatorio,Inserción,1000,12.5162
+A,Aleatorio,Inserción,2000,51.7853
+A,Aleatorio,Inserción,4000,223.5289
+A,Aleatorio,Inserción,8000,879.9444
+A,Aleatorio,Quicksort,500,0.3786
+A,Aleatorio,Quicksort,1000,0.8972
+A,Aleatorio,Quicksort,2000,1.9061
+A,Aleatorio,Quicksort,4000,4.3277
+A,Aleatorio,Quicksort,8000,9.5924
+A,Aleatorio,Selección,500,3.1577
+A,Aleatorio,Selección,1000,13.3835
+A,Aleatorio,Selección,2000,53.6410
+A,Aleatorio,Selección,4000,222.7792
+A,Aleatorio,Selección,8000,923.8958
+A,Casi ordenado,Burbuja,500,3.5696
+A,Casi ordenado,Burbuja,1000,16.9534
+A,Casi ordenado,Burbuja,2000,77.2475
+A,Casi ordenado,Burbuja,4000,343.5350
+A,Casi ordenado,Burbuja,8000,1391.0718
+A,Casi ordenado,Heapsort,500,0.4710
+A,Casi ordenado,Heapsort,1000,1.1136
+A,Casi ordenado,Heapsort,2000,2.5747
+A,Casi ordenado,Heapsort,4000,5.8744
+A,Casi ordenado,Heapsort,8000,12.6456
+A,Casi ordenado,Inserción,500,0.3325
+A,Casi ordenado,Inserción,1000,1.3535
+A,Casi ordenado,Inserción,2000,6.5170
+A,Casi ordenado,Inserción,4000,29.1305
+A,Casi ordenado,Inserción,8000,193.6290
+A,Casi ordenado,Quicksort,500,0.3513
+A,Casi ordenado,Quicksort,1000,0.8317
+A,Casi ordenado,Quicksort,2000,1.8474
+A,Casi ordenado,Quicksort,4000,4.0036
+A,Casi ordenado,Quicksort,8000,8.4326
+A,Casi ordenado,Selección,500,3.0666
+A,Casi ordenado,Selección,1000,12.9550
+A,Casi ordenado,Selección,2000,54.0302
+A,Casi ordenado,Selección,4000,330.7838
+A,Casi ordenado,Selección,8000,841.3889
+A,Inverso,Burbuja,500,8.1910
+A,Inverso,Burbuja,1000,45.7595
+A,Inverso,Burbuja,2000,178.8607
+A,Inverso,Burbuja,4000,765.0220
+A,Inverso,Burbuja,8000,2802.8916
+A,Inverso,Heapsort,500,0.3995
+A,Inverso,Heapsort,1000,0.9840
+A,Inverso,Heapsort,2000,2.2988
+A,Inverso,Heapsort,4000,8.5970
+A,Inverso,Heapsort,8000,13.3698
+A,Inverso,Inserción,500,5.1770
+A,Inverso,Inserción,1000,23.4380
+A,Inverso,Inserción,2000,102.3290
+A,Inverso,Inserción,4000,440.4042
+A,Inverso,Inserción,8000,1915.6000
+A,Inverso,Quicksort,500,0.3580
+A,Inverso,Quicksort,1000,0.8139
+A,Inverso,Quicksort,2000,1.8104
+A,Inverso,Quicksort,4000,4.2619
+A,Inverso,Quicksort,8000,8.8313
+A,Inverso,Selección,500,3.2210
+A,Inverso,Selección,1000,14.0690
+A,Inverso,Selección,2000,58.6449
+A,Inverso,Selección,4000,272.8371
+A,Inverso,Selección,8000,1193.7119
+A,Ordenado,Burbuja,500,0.0148
+A,Ordenado,Burbuja,1000,0.0332
+A,Ordenado,Burbuja,2000,0.0696
+A,Ordenado,Burbuja,4000,0.1425
+A,Ordenado,Burbuja,8000,0.2918
+A,Ordenado,Heapsort,500,0.4736
+A,Ordenado,Heapsort,1000,1.1255
+A,Ordenado,Heapsort,2000,2.8155
+A,Ordenado,Heapsort,4000,5.5951
+A,Ordenado,Heapsort,8000,12.6721
+A,Ordenado,Inserción,500,0.0265
+A,Ordenado,Inserción,1000,0.0589
+A,Ordenado,Inserción,2000,0.1208
+A,Ordenado,Inserción,4000,0.2484
+A,Ordenado,Inserción,8000,0.5038
+A,Ordenado,Quicksort,500,0.3479
+A,Ordenado,Quicksort,1000,0.7754
+A,Ordenado,Quicksort,2000,1.8365
+A,Ordenado,Quicksort,4000,3.9922
+A,Ordenado,Quicksort,8000,8.5324
+A,Ordenado,Selección,500,3.0343
+A,Ordenado,Selección,1000,12.8424
+A,Ordenado,Selección,2000,53.3109
+A,Ordenado,Selección,4000,283.0161
+A,Ordenado,Selección,8000,966.5822
+B,Aleatorio,Heapsort,25000,48.9306
+B,Aleatorio,Heapsort,50000,106.3919
+B,Aleatorio,Heapsort,100000,257.5998
+B,Aleatorio,Heapsort,200000,824.6352
+B,Aleatorio,Heapsort,400000,1663.0073
+B,Aleatorio,Quicksort,25000,33.2690
+B,Aleatorio,Quicksort,50000,71.5804
+B,Aleatorio,Quicksort,100000,173.8475
+B,Aleatorio,Quicksort,200000,394.1460
+B,Aleatorio,Quicksort,400000,923.2755
